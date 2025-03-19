@@ -1,0 +1,7 @@
+{
+  "status": {
+    "message": "Error occurred",
+    "code": "${statusCode}",
+    "details": "Mocked error response for testing."
+  }
+}

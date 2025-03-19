@@ -1,0 +1,7 @@
+{
+  "application": {
+    "id": "{{application.applicationId}}",
+    "status": "{{application.status}}",
+    "message": "Application status retrieved successfully"
+  }
+}
